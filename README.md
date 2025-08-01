@@ -1,5 +1,7 @@
 # Router-Settings-by-Joe-Gentov-
 
+This is my project, only visual
+
 Router Settings — User Guide & Overview
 
 Welcome to Router Settings v1.0.7, developed by Joe Gentov. This program is designed to help you easily manage and configure your router by applying pre-set configurations (presets) and optimizing your network settings.
